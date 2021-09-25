@@ -14,7 +14,7 @@ export default class App extends React.Component {
         <Switch>
           <Route component={Home} path="/" exact/>
           <Route component={About} path="/about-us" exact/>
-          <Route component={Contact} path = "contact-us" exact/>
+          <Route component={Contact} path = "/contact-us" exact/>
         </Switch>  
       </React.Fragment>
     );

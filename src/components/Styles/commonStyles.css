@@ -1,10 +1,11 @@
 .top-nav{
-    /* margin-top: 20px; */
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    /* margin-top: 20px;  */
+    
 }
 .nav-items{
     
-    background-color: white;
-    padding-left: 10px;
+    color: white; 
+    padding: 5px;
 
 }
